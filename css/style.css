@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+
+body {
+  font-size: 100%;
+  background-color:#E0FFE2
+}
+.hopeSampleClass{
+  font-size: 200%;
+  border: 10px dotted #FFEBF2;
+  background-color: #FFB2B0;
+  font-family: Impact;
+  text-align:center;
+  
